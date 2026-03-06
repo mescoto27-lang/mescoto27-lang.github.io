@@ -1,9 +1,15 @@
-<h1> Piantini News Hub 🍕</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
 
+<h1>🍕 Piantini News Hub 🍕</h1>
 <p>Welcome to the Piantini News Hub! Stay updated on the latest local events and stories. Our featured article covers the grand opening of a new pizza restaurant in town.</p>
 
 <p>Read our full article here: 
-        <a href="/MayaEscoto.html.rtf">Grand Opening of Pizzaville</a>
+        <a href="article.html">Grand Opening of Pizzaville</a>
     </p>
 
 <p>Download the PDF version of the article: 
@@ -14,3 +20,6 @@
 <p>Check out the latest weather forecast for Piantini: 
         <a href="https://www.weather.com/" target="_blank">Weather.com</a>
     </p>
+
+</body>
+</html>
